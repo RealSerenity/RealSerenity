@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**RealSerenity/RealSerenity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About myself : 
+  I'm a 3rd year computer engineer student that also doing a minor Artficial Intelligence and Machine Learning at Eskisehir Technical University.
 
-Here are some ideas to get you started:
+My Skills:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ High Level ->
+    * Java
+    * C#
+    
+ Mid Level ->
+  * Python
+  * Html-css-javascript
+  * Sql
+
+- 🔭 I’m currently working on Software Development mostly Backend development
+- 🌱 I’m currently learning Springboot and Thymeleaf
+
+
+- 📫 You can reach me via my hotmail : melih41-memis@hotmail.com
+- 📫 Here is my linkedIn : https://www.linkedin.com/in/melih-memiş-18b548212/
