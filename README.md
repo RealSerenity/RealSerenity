@@ -5,7 +5,7 @@ About myself :
 
 My Skills:
 
- - High Level -
+ - High Level
     ---- Java ----
     ---- C# ----
     
