@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 About myself :
-  I'm a 3rd year computer engineer student that also doing a minor Artficial Intelligence and Machine Learning at Eskisehir Technical University.
+  I'm a 3rd year computer engineer student that doing a minor Artficial Intelligence and Machine Learning at Eskisehir Technical University.
 
 My Skills:
 
