@@ -9,10 +9,10 @@ My Skills:
     * Java
     * C#
     
- Mid Level ->
-  * Python
-  * Html-css-javascript
-  * Sql
+ - Mid Level
+    * Python
+    * Html-css-javascript
+    * Sql
 
 - 🔭 I’m currently working on Software Development mostly Backend development
 - 🌱 I’m currently learning Springboot and Thymeleaf
